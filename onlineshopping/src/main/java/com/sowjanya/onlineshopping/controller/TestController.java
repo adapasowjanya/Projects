@@ -18,6 +18,12 @@ public class TestController {
 		return "login";
 	}
 	
+	@RequestMapping(value="/register", method=RequestMethod.GET )
+	public String getRegisterForm(){
+		return "register";
+	}
+	
+	
 
 	@RequestMapping(value="/about" )
 	public String getAbout(){
