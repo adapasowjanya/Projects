@@ -206,15 +206,13 @@
     </div>
     <!-- /.container -->
 
-    <div class="container">
-
-        <hr>
-
+    
+ <!-- /.footer -->
 <c:import url="shared/footer.jsp"></c:import>
         
 
-    </div>
-    <!-- /.container -->
+
+    
 
     <!-- jQuery -->
     <script src='<c:url value="/resources/js/jquery.js"></c:url>'></script>

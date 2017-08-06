@@ -17,13 +17,13 @@
                    
                     
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="contact">Contact</a>
                     </li>
                      <li>
-                        <a href="#">About</a>
+                        <a href="about">About</a>
                     </li>
                      <li>
-                        <a href="#">Login/Register</a>
+                        <a href="login">Login/Register</a>
                     </li>
                 </ul>
             </div>
